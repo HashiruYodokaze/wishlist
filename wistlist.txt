@@ -1,0 +1,7 @@
+title:Test XII Wishlist file
+description:Testing
+
+// Ergo Sum
+//notes:This is a test description of an Ergo Sum with randon stuff
+dimwishlist:item=1681583613&perks=436053704,52780822,2557881346,2963428707
+dimwishlist:item=1681583613&perks=436053704,599007201,2557881346,2963428707
